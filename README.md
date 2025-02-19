@@ -1,7 +1,7 @@
 ## Hi, I'm Nohora
 I'm a Systems and Computer Engineering student and a low-key artist.
 
-- 🌱 I’m currently learning **C** and **Racket**.
+- 🌱 I’m currently learning **C**,**C++** and **Racket**.
 - 👯 I’m looking to collaborate on small projects of students to continuing to learn.
 - 🌱 I’m looking to learn about data analysis.
 - 💬 Ask me about **algorithms** or ideas for **projects**.
