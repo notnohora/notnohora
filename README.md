@@ -29,10 +29,15 @@
 <img src="https://raw.githubusercontent.com/notnohora/notnohora/output/snake.svg" alt="Snake animation" />
 -->
 ###
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/26/81/c2/2681c21bbad82e949154ef98c72a1339.gif"  />
+</div>
 
+<!--
 <div align="left">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
+-->
 
 ###
 
