@@ -25,9 +25,9 @@
 </div>
 
 ###
-
+<!--
 <img src="https://raw.githubusercontent.com/notnohora/notnohora/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
 <div align="left">
