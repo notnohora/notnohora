@@ -39,10 +39,6 @@
 </div>
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=notnohora&repo=Sudokus-Solver&theme=buefy" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=notnohora&repo=notnohoa&theme=buefy" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=notnohora&repo=Actividades-Estructuras-de-Datos&theme=buefy" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=notnohora&repo=Base-de-Datos-Programacion-ll&theme=buefy" />
 
 ###
 
